@@ -8,6 +8,9 @@ Example of npm package.
 4.  Login to npm with `npm login` command.
 5.  `npm publish`
 
+test1
+test2
+
 You will see published package on:
 
 * https://www.npmjs.com/package/ktsn-npm-package-example
