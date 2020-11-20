@@ -9,6 +9,7 @@ Example of npm package.
 5.  `npm publish`
 
 test1
+test2
 
 You will see published package on:
 
